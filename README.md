@@ -29,6 +29,10 @@ Transaction Service → Ledger Service
 
 Authentication is handled via OAuth2 / JWT using Keycloak.
 
+## HLD
+
+![Architecture Diagram](./resources/digi-bnk.drawio.png)
+
 ---
 
 ## Core Services
